@@ -1,4 +1,4 @@
-# ShopNest-Store-Capstone---Power-BI-Dashboard
+# ShopNest Store Performance Analysis into (Power BI)
 ShopNest is the leading department store in Portugal's e-commerce market, facilitating connections between small businesses across the country and online marketplaces. Through ShopNest Store, merchants showcase and sell products, benefiting from direct customer shipment managed by ShopNest logistics partners. The project utilizes a diverse dataset comprising:
 - Customers_dataset: Information on customer profiles and behaviors.
 - Geolocation_dataset: Data detailing geographic locations relevant to sales and logistics.
